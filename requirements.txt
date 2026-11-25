@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+requests
+pydantic
+google-genai
+nbformat
